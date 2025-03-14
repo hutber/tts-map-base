@@ -1,0 +1,3 @@
+[submodule "hutber-tts"]
+	path = hutber-tts
+	url = git@github.com:hutber/hutber-tts.git
