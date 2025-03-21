@@ -1,3 +1,6 @@
 [submodule "hutber-tts"]
 	path = hutber-tts
 	url = git@github.com:hutber/hutber-tts.git
+[submodule "WTC"]
+	path = WTC
+	url = https://github.com/ScooloV/tts_workshop.git
